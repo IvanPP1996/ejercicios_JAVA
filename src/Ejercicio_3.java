@@ -9,7 +9,7 @@ public class Ejercicio_3 {
     
     public static void main(String[] args) {
         
-        JOptionPane.showMessageDialog(null, "Progrmaa para saber las notas definitivas\nde X estudiantes");
+        JOptionPane.showMessageDialog(null, "Programa para saber las notas definitivas\nde X estudiantes");
 
         String cantidad = JOptionPane.showInputDialog("Ingrese la cantidad de estudiantes los cuales quiere conocer sus notas.");
         int cantidadNumero = Integer.parseInt(cantidad);
